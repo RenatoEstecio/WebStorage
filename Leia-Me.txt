@@ -1,0 +1,43 @@
+ASP Net Core:
+
+ - Heroes API:
+
+	Sobre: trata-se de uma API que usa REGEX para recuperar informações de uma pagina,
+        retornando através de uma API diversos tipos de arquivos, de mais comuns como xml e json.
+	O usuário fornece um codinome de um herói e a API utilizando web scraping retorna o seu verdadeiro nome.
+	Entrada: url's.
+
+Linguagem C#
+
+ - Sin:
+
+	Sobre: corrige a sincronização de uma legenda, de acordo com o tempo em segundos fornecido pelo usuário.
+	Entrada: teclado/arquivos no formato srt.
+
+ - Observer:
+
+	Sobre: Monitora um executável, podendo ser configuradas ações com intervalos de tempo definidos, 
+	como abertura, fechamento e envio de emails.
+	
+	Entrada: teclado/arquivos no formato json.
+
+
+Linguagem C
+
+ - New Space:
+
+	Sobre: Consiste em um game "shoot'em up" em 2D single player com 3 fases.
+	Entrada: Teclado.
+
+ - R2 Trekking:
+
+	Sobre: Trabalho de Estrutura de Dados I, tendo o algoritmo de busca como ponto central, 
+	o personagem de forma automatizada deve varrer o mapa proposto pelo usuário em busca de recompensas e voltar ao seu ponto de saída. 
+	podemos traçar um paralelo com uma IA de um aspirador de pó.
+	
+	Entrada: arquivos no formato txt.
+
+ - O Passeio do Cavalo:
+	
+	Sobre: Consiste em um game 'puzzle' em 2D single player.
+	Entrada: Teclado.
